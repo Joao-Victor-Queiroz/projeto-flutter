@@ -21,7 +21,7 @@ class TelaUsuario extends StatelessWidget {
             Row(
               children: [
                 Image.asset(
-                  '../assets/logo.png', // Ícone do app
+                  'lib/assets/logo.png', // Ícone do app
                   width: 50,
                   height: 50,
                 ),
@@ -58,7 +58,7 @@ class TelaUsuario extends StatelessWidget {
                     CircleAvatar(
                       radius: 30,
                       backgroundImage: AssetImage(
-                        '../assets/usuario.png',
+                        'lib/assets/usuario.png',
                       ), // Foto do usuário
                     ),
                     SizedBox(width: 16),
@@ -96,7 +96,7 @@ class TelaUsuario extends StatelessWidget {
                   duracao: '2 horas',
                   status: 'Finalizado',
                   statusColor: Colors.green,
-                  imagem: '../assets/acer.png',
+                  imagem: 'lib/assets/acer.png',
                 ),
                 SizedBox(height: 8),
 
@@ -107,7 +107,7 @@ class TelaUsuario extends StatelessWidget {
                   duracao: '1 hora',
                   status: 'Em andamento',
                   statusColor: Colors.orange,
-                  imagem: '../assets/pc1.png',
+                  imagem: 'lib/assets/pc1.png',
                 ),
                 SizedBox(height: 24),
 

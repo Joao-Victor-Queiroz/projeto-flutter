@@ -23,7 +23,7 @@ class NotebookHomePage extends StatelessWidget {
         ),
         title: Row(
           children: [
-            Image.asset('assets/logo.png', width: 32, height: 32),
+            Image.asset('lib/assets/logo.png', width: 32, height: 32),
             const SizedBox(width: 8),
             Expanded(
               child: SizedBox(
@@ -105,7 +105,7 @@ class NotebookDetailCard extends StatelessWidget {
             const SizedBox(height: 8),
             Center(
               child: Image.asset(
-                'assets/pc1.png',
+                'lib/assets/pc1.png',
                 height: 230,
                 fit: BoxFit.contain,
               ),
