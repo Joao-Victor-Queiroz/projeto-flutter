@@ -42,6 +42,6 @@ Este projeto faz parte da disciplina Programação de Dispositivos Móveis. Crit
 
 👨‍💻 Desenvolvido por:
 - Rafael Lucas Carlos Gonçalves
-- José Vieira Stable
+- José Vieira Stable Neto
 - João Victor Martelleto de Paula Teixeira
 - João Victor Queiroz de Araújo
