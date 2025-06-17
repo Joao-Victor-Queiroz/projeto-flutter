@@ -24,7 +24,7 @@ O objetivo do projeto é aplicar os conhecimentos de Flutter no desenvolvimento 
 1. Certifique-se de ter o Flutter instalado.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/aluguel-notebooks.git
+   git clone https://github.com/Joao-VictorQueiroz/projeto-flutter.git
    cd aluguel-notebooks
    flutter pub get
    flutter run
